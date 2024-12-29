@@ -1,0 +1,10 @@
+Emon,Rajshahi,560.0,2022-12-21
+efewfe,Khulna,650.0,2022-12-21
+Touhid,Khulna,520.0,2022-12-21
+Ripon,Dhaka,280.0,2022-12-21
+efguia,Rajshahi,700.0,2022-12-21
+Emon56,Khulna,4550.0,2022-12-21
+Touhid,Dhaka,5320.0,2022-12-22
+Rashed,Rajshahi,10500.0,2022-12-22
+Shimul,Barisal,2280.0,2022-12-24
+Hasan,Dhaka,840.0,2022-12-24
