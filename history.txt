@@ -8,3 +8,4 @@ Touhid,Dhaka,5320.0,2022-12-22
 Rashed,Rajshahi,10500.0,2022-12-22
 Shimul,Barisal,2280.0,2022-12-24
 Hasan,Dhaka,840.0,2022-12-24
+Touhid,Dhaka,700.0,2024-12-29
